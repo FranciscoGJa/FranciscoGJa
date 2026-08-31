@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <h3>Estudiante de Licenciatura en Computación | UAM Iztapalapa</h3>
-  <p>Me enfoco en el desarrollo de software y análisis de datos, trabajando con metodologías ágiles para llevar proyectos desde el diseño lógico hasta la implementación de interfaces interactivas.</p>
+  <h3>Ingeniero en Computación | Desarrollador Full-Stack | Análisis de Datos</h3>
+  <p>Estudiante en la UAM Iztapalapa. Transformo requerimientos complejos en sistemas eficientes, abarcando desde el diseño lógico en el backend hasta la implementación de interfaces interactivas. Apasionado por optimizar procesos mediante metodologías ágiles.</p>
   
   <!-- Enlaces de contacto -->
   <a href="mailto:manuelgranados962@gmail.com">
@@ -50,16 +50,23 @@
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción |
-| :--- | :--- |
-| **Los-buggea2** | Sistema de gestión para un centro psicológico desarrollado en equipo con Spring Boot y Angular, administrado mediante sprints ágiles. |
-| **Chefsitos** | Aplicación web de comercio electrónico y gestión con carrito de compras. |
+| Proyecto | Descripción | Tecnologías Clave |
+| :--- | :--- | :--- |
+| **Los-buggea2** | Sistema de gestión para un centro psicológico, administrado mediante sprints ágiles. | `Spring Boot`, `Angular` |
+| **Chefsitos** | Aplicación web de comercio electrónico y gestión con carrito de compras. | `Frontend`, `Backend` |
 
 <br/>
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub y Contribuciones
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoGJa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGJa&layout=compact&theme=tokyonight"/>
+  <!-- Gráfica 3D de contribuciones (Requiere haber ejecutado la GitHub Action) -->
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Gráfica de Contribuciones 3D" />
+
+  <br/><br/>
+
+  <!-- Estadísticas con fondo transparente y acentos morados/futuristas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoGJa&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9&icon_color=a855f7&include_all_commits=true" alt="Estadísticas de GitHub"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGJa&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9" alt="Lenguajes más usados"/>
 </div>
