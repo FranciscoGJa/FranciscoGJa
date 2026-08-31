@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>Estudiante de Licenciatura en Computación | UAM Iztapalapa</h3>
-  <p>Transformo requerimientos complejos en sistemas eficientes, abarcando desde el diseño lógico en el backend hasta la implementación de interfaces interactivas. Apasionado por optimizar procesos mediante metodologías ágiles y análisis de datos.</p>
+  <p>Me enfoco en el desarrollo de software y análisis de datos, trabajando con metodologías ágiles para llevar proyectos desde el diseño lógico hasta la implementación de interfaces interactivas.</p>
   
   <!-- Enlaces de contacto -->
   <a href="mailto:manuelgranados962@gmail.com">
