@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <h3>Ingeniero en Computación | Desarrollador Full-Stack | Análisis de Datos</h3>
-  <p>Estudiante en la UAM Iztapalapa. Transformo requerimientos complejos en sistemas eficientes, abarcando desde el diseño lógico en el backend hasta la implementación de interfaces interactivas. Apasionado por optimizar procesos mediante metodologías ágiles.</p>
+  <h3>Estudiante de Licenciatura en Computación | UAM Iztapalapa</h3>
+  <p>Transformo requerimientos complejos en sistemas eficientes, abarcando desde el diseño lógico en el backend hasta la implementación de interfaces interactivas. Apasionado por optimizar procesos mediante metodologías ágiles y análisis de datos.</p>
   
   <!-- Enlaces de contacto -->
   <a href="mailto:manuelgranados962@gmail.com">
@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 Conocimientos y Tecnologías
 
 **Lenguajes y Backend**
 <br/>
@@ -54,19 +54,3 @@
 | :--- | :--- | :--- |
 | **Los-buggea2** | Sistema de gestión para un centro psicológico, administrado mediante sprints ágiles. | `Spring Boot`, `Angular` |
 | **Chefsitos** | Aplicación web de comercio electrónico y gestión con carrito de compras. | `Frontend`, `Backend` |
-
-<br/>
-
-## 📊 Estadísticas de GitHub y Contribuciones
-
-<div align="center">
-  <!-- Gráfica 3D de contribuciones (Requiere haber ejecutado la GitHub Action) -->
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Gráfica de Contribuciones 3D" />
-
-  <br/><br/>
-
-  <!-- Estadísticas con fondo transparente y acentos morados/futuristas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoGJa&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9&icon_color=a855f7&include_all_commits=true" alt="Estadísticas de GitHub"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGJa&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9" alt="Lenguajes más usados"/>
-</div>
