@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=¡Hola!%20Soy%20Francisco%20👋&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=¡Hola!%20Soy%20Francisco%20👾&fontSize=50&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
